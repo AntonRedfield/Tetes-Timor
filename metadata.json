@@ -1,0 +1,6 @@
+{
+  "name": "Tetes Timor: Penjaga Air Karst",
+  "description": "Game petualangan edukatif pelestarian air di savana karst Pulau Timor, NTT untuk OTN 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
